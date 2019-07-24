@@ -2,11 +2,11 @@
 
 ![Suburban to the rescue](https://github.com/se37301/suburban/raw/master/Docs/PNGs/Suburban%20to%20the%20rescue.png)
 
-"Suburban" is all about the Focus areas on what really matters for the individuals of any type of a Society, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
+"Suburban" is all about the Focus areas on what really matters for the individuals of any type of a Society.
 
-The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind
+The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
 
-A structure needs to be defined for the Focus Areas in relation to its States , Societies and its Individuals
+A structure needs to be defined for the Focus Areas and their Types in relation to its States , Societies and its Individuals
 
 The are are some principles and behaviours as inputs in the Suburban requirements and constraints
 
