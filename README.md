@@ -93,10 +93,3 @@ https://camo.githubusercontent.com/005cfe27b7c4520ac0d6b607d6a7e33f5ad4eb6e/6874
 Suburban by Tommy Hägvall is licensed under a Creative Commons Attribution 4.0 International License.
 Based on a work at https://github.com/se37301/suburban.
 Permissions beyond the scope of this license may be available at https://github.com/se37301/suburban
-
-More information:
-https://github.com/se37301/suburban/tree/master/Docs
-
-### Please provide feedback on the selection of the above focus areas
-https://creator.zohopublic.com/se37301/suburban/form-perma/Feedback/91RfMnbpvrQVxP0BXTkRkNarCqKV8YZN0Rr6FmpUAtW2fvrwR2fpm30hOmMmUTgJXPGMMEFzfwwrgyV6wFeObKvxFaNEYBm39gKp?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B%2BFx%2BdOO5QCSXUEccEKy%2B5Q%3D%3D
-
