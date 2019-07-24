@@ -27,7 +27,7 @@ different accountability.
 https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
 ### Focus Area Types
-The Suburban defined focus areas
+The Suburban defined Focus Area Types
 In order of importance and priority
 
 | |Focus Area Types |
