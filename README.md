@@ -30,14 +30,14 @@ https://github.com/se37301/suburban/blob/master/FocusAreas.md
 The Suburban defined focus areas
 In order of importance and priority
 
-| |Focus Areas  |
+| |Focus Area Types |
 ------------  |------------  |
 A|Living conditions|
 B|Abilities|
 C|Welfare|
 D|Diversities|
 
-### Summary of Suburban - Focus Areas
+### Focus Areas
 A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
 ------------  |  ------------  |  ------------  |  ------------  |
 Safety|Education|Health |Values|Education|Health|
