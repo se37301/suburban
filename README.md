@@ -12,6 +12,7 @@ Requirements:
 - Freedom of Speech - it must be absolute
 - All minds matters - even the outermost extreme thoughts on any side or view is of value
 - People love and hate - people must be allowed to both love and hate
+- Focus wat matters - More focus on level that are more important and prioritised
 
 Constraints:
 - Any sized society will have different ambitions of the focus areas
@@ -24,6 +25,8 @@ different accountability.
 https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
 ### Focus Areas
+
+In order of importance and priority
 
 | |Focus Areas  |
 ------------  |------------  |
@@ -63,10 +66,10 @@ Environment|   |   |Language|
 
 ### Why
 - Make any area great again
-- More peaceful, safe and secure
-- More human, collectively intelligent participation
+- More safe, secure and just
 - More balancing opposite forces and include all citizens
 - Build a co-creating future oriented mindset that involves people and individuals
+- More human, collectively intelligent participation
 
 ### When
 - Now - end of 2017 - Shared on Github -> will be Open Sourced in the future
