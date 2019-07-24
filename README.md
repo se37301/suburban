@@ -11,10 +11,10 @@ https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
 | |Focus Areas  |
 ------------  |------------  |
-A|01 - Living conditions|
-B|02 - Abilities|
-C|03 - Welfare|
-D|04 - Diversities|
+A|Living conditions|
+B|Abilities|
+C|Welfare|
+D|Diversities|
 
 ### Summary of Suburban - 4 Areas
 A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
