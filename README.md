@@ -8,7 +8,7 @@ The ambition is to release "Suburban" structure as a Distributed Open Source fra
 
 A structure needs to be defined for the Focus Areas in relation to its States , Societies and its Individuals
 
-The are are some principles and beahviour as inputs in the Suburban requirements and constraints
+The are are some principles and behaviours as inputs in the Suburban requirements and constraints
 
 Requirements:
 - Freedom of Speech - it must be absolute
