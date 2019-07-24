@@ -2,17 +2,19 @@
 
 ![Suburban to the rescue](https://github.com/se37301/suburban/raw/master/Docs/PNGs/Suburban%20to%20the%20rescue.png)
 
-Suburban is all about the Focus on what really matters the most for the individuals of any type of a Society, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
+Suburban is all about the Focus areas on what really matters for the individuals of any type of a Society, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
 
-"Suburban" is the structure and Distributed Open Source framework for mankind
+"Suburban" is structure and also a Distributed Open Source framework for mankind
 
-Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and its Individuals
+Defining new Focus Areas and the Structure needed for any area in relation to its States , Societies and its Individuals
+
+The are are some principles and beahviour as inputs in the Suburban requirements and constraints
 
 Requirements:
 - Freedom of Speech - it must be absolute
 - All minds matters - even the outermost extreme thoughts on any side or view is of value
 - People love and hate - people must be allowed to both love and hate
-- Focus wat matters - More focus on level that are more important and prioritised
+- Focus wat matters - define levels of areas that are more important and prioritised
 
 Constraints:
 - Any sized society will have different ambitions of the focus areas
@@ -25,7 +27,7 @@ different accountability.
 https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
 ### Focus Areas
-
+The Suburban defined focus areas
 In order of importance and priority
 
 | |Focus Areas  |
