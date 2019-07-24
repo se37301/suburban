@@ -2,7 +2,7 @@
 
 ![Suburban to the rescue](https://github.com/se37301/suburban/raw/master/Docs/PNGs/Suburban%20to%20the%20rescue.png)
 
-Suburban is all about the Focus areas on what really matters for the individuals of any type of a Society, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
+"Suburban" is all about the Focus areas on what really matters for the individuals of any type of a Society, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
 
 "Suburban" is structure and also a Distributed Open Source framework for mankind
 
@@ -52,9 +52,9 @@ Environment|   |   |Language|
  |  |   |   |Ethics|
 
 ### What
-- Level 1 - The Focus Areas and Area Types
-- Level 2 - The Structure
-- Level 3 - Shared Knowledge
+- The Focus Areas and Area Types
+- The Structure
+- Shared Knowledge
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F00.%20Focus%20Areas%20-%20Simplified.png)
 
 ### How 
