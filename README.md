@@ -12,15 +12,14 @@ Requirements:
 - Freedom of Speech - it must be absolute
 - All minds matters - even the outermost extreme thoughts on any side or view is of value
 - People love and hate - people must be allowed to both love and hate
-- Different focus areas must have different priorities of importance 
-- Execution and enforcement needs to be monitored, needs to be measured by its perfomance and outcome 
-different accountability.
 
 Constraints:
 - Any sized society will have different ambitions of the focus areas
 - Some areas are will emerge to be more important than others. 
 - It is a great value to re-use a good structure such as Suburban
 - Ex. establish a Common ground for making sure the society is safe, secure and justiced.
+- Execution and enforcement needs to be monitored, needs to be measured by its perfomance and outcome 
+different accountability.
 
 https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
