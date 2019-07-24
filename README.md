@@ -4,9 +4,9 @@
 
 "Suburban" is all about the Focus areas on what really matters for the individuals of any type of a Society, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
 
-"Suburban" is structure and also a Distributed Open Source framework for mankind
+The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind
 
-Defining new Focus Areas and the Structure needed for any area in relation to its States , Societies and its Individuals
+A structure needs to be defined for the Focus Areas in relation to its States , Societies and its Individuals
 
 The are are some principles and beahviour as inputs in the Suburban requirements and constraints
 
