@@ -73,6 +73,14 @@ Environment|   |   |Language|
 - Build a co-creating future oriented mindset that involves people and individuals
 - More human, collectively intelligent participation
 
+### Call to action
+- Contribute to "Suburban"
+- Spread the "Suburban" ideas
+- Get "Suburban" complaint
+- Change existing society to a more "Suburban" society
+- Create a new "Suburban" society
+- Improve and evolve "Suburban"
+
 ### When
 - Now - end of 2017 - Shared on Github -> will be Open Sourced in the future
 - Now - Common Creative License
