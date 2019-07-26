@@ -28,14 +28,11 @@ Environment|   |   |Language|
  |  |   |   |Morality|
  |  |   |   |Ethics|
 
-The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
-
-A structure needs to be defined for the Focus Areas and their Types in relation to its States , Societies and its Individuals.
+This Suburban structure is defined for the Focus Areas and their Types in relation to its States , Societies and its Individuals.
 The primary focus of "Suburban" is to focus and prioritise the things that matters the most.
-
 Suburban societys needs to shift the focus towards A level priorities.
 
-The D - Diversity evel is a multi-complexity domain which has opposite forces of conlicts that needs to be controlled in a safe and secure way.
+The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
 
 The are are some principles and behaviours as inputs in the Suburban requirements and constraints
 
