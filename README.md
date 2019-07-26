@@ -37,13 +37,13 @@ The ambition is to release "Suburban" structure as a Distributed Open Source fra
 
 The are are some principles and behaviours as inputs in the Suburban requirements and constraints
 
-## Requirements:
+#### Requirements:
 - Freedom of Speech - it must be absolute
 - All minds matters - even the outermost extreme thoughts on any side or view is of value
 - People love and hate - people must be allowed to both love and hate
 - Focus wat matters - define levels of areas that are more important and prioritised
 
-## Constraints:
+#### Constraints:
 - Any sized society will have different ambitions of the focus areas
 - Some areas are will emerge to be more important than others. 
 - It is a great value to re-use a good structure such as Suburban
