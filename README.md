@@ -3,6 +3,8 @@
 ![Suburban to the rescue](https://github.com/se37301/suburban/raw/master/Docs/PNGs/Suburban%20to%20the%20rescue.png)
 
 "Suburban" is all about the Focus areas on what really matters the most for the individuals of any type of a Society.
+This Suburban structure is defined for the Focus Areas and their Types in relation to its States , Societies and its Individuals.
+
 ### Focus Area Types
 The Suburban defined Focus Area Types
 In order of importance and priority
@@ -13,6 +15,9 @@ A|Living conditions|
 B|Abilities|
 C|Welfare|
 D|Diversities|
+
+The primary focus of "Suburban" is to focus and prioritise the things that matters the most.
+Suburban societys needs to shift the focus towards A level priorities.
 
 ### Focus Areas
 A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
@@ -27,10 +32,6 @@ Environment|   |   |Language|
  |  |   |   |Sexuality|
  |  |   |   |Morality|
  |  |   |   |Ethics|
-
-This Suburban structure is defined for the Focus Areas and their Types in relation to its States , Societies and its Individuals.
-The primary focus of "Suburban" is to focus and prioritise the things that matters the most.
-Suburban societys needs to shift the focus towards A level priorities.
 
 The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
 
@@ -55,7 +56,7 @@ https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
 
 ### What
-- The Definition of the Focus Areas and Area Types
+- The Definition of the Focus Areas and the Foucs Area Types
 - The Structure
 - Shared Knowledge
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F00.%20Focus%20Areas%20-%20Simplified.png)
@@ -89,7 +90,7 @@ https://github.com/se37301/suburban/blob/master/FocusAreas.md
 - Now - Common Creative License
 - In 5 years -  Reference structure for new societies
 - In 10 years - Benchmarking dashboard KPIs
-- In 15 years - Structure for a society on Mars
+- In >15 years - Structure for a society on Mars
 
 
 ### Who
