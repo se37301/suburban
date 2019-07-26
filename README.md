@@ -17,6 +17,7 @@ C|Welfare|
 D|Diversities|
 
 The primary focus of "Suburban" is to focus and prioritise the things that matters the most.
+
 Suburban societys needs to shift the focus towards A level priorities.
 
 ### Focus Areas
