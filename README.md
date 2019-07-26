@@ -3,29 +3,6 @@
 ![Suburban to the rescue](https://github.com/se37301/suburban/raw/master/Docs/PNGs/Suburban%20to%20the%20rescue.png)
 
 "Suburban" is all about the Focus areas on what really matters for the individuals of any type of a Society.
-
-The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
-
-A structure needs to be defined for the Focus Areas and their Types in relation to its States , Societies and its Individuals
-
-The are are some principles and behaviours as inputs in the Suburban requirements and constraints
-
-Requirements:
-- Freedom of Speech - it must be absolute
-- All minds matters - even the outermost extreme thoughts on any side or view is of value
-- People love and hate - people must be allowed to both love and hate
-- Focus wat matters - define levels of areas that are more important and prioritised
-
-Constraints:
-- Any sized society will have different ambitions of the focus areas
-- Some areas are will emerge to be more important than others. 
-- It is a great value to re-use a good structure such as Suburban
-- Ex. establish a Common ground for making sure the society is safe, secure and justiced.
-- Execution and enforcement needs to be monitored, needs to be measured by its perfomance and outcome 
-different accountability.
-
-https://github.com/se37301/suburban/blob/master/FocusAreas.md
-
 ### Focus Area Types
 The Suburban defined Focus Area Types
 In order of importance and priority
@@ -50,6 +27,30 @@ Environment|   |   |Language|
  |  |   |   |Sexuality|
  |  |   |   |Morality|
  |  |   |   |Ethics|
+
+The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
+
+A structure needs to be defined for the Focus Areas and their Types in relation to its States , Societies and its Individuals
+
+The are are some principles and behaviours as inputs in the Suburban requirements and constraints
+
+Requirements:
+- Freedom of Speech - it must be absolute
+- All minds matters - even the outermost extreme thoughts on any side or view is of value
+- People love and hate - people must be allowed to both love and hate
+- Focus wat matters - define levels of areas that are more important and prioritised
+
+Constraints:
+- Any sized society will have different ambitions of the focus areas
+- Some areas are will emerge to be more important than others. 
+- It is a great value to re-use a good structure such as Suburban
+- Ex. establish a Common ground for making sure the society is safe, secure and justiced.
+- Execution and enforcement needs to be monitored, needs to be measured by its perfomance and outcome 
+different accountability.
+
+https://github.com/se37301/suburban/blob/master/FocusAreas.md
+
+
 
 ### What
 - The Focus Areas and Area Types
