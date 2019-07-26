@@ -2,7 +2,7 @@
 
 ![Suburban to the rescue](https://github.com/se37301/suburban/raw/master/Docs/PNGs/Suburban%20to%20the%20rescue.png)
 
-"Suburban" is all about the Focus areas on what really matters for the individuals of any type of a Society.
+"Suburban" is all about the Focus areas on what really matters the most for the individuals of any type of a Society.
 ### Focus Area Types
 The Suburban defined Focus Area Types
 In order of importance and priority
