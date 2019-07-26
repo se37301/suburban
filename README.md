@@ -33,7 +33,7 @@ Environment|   |   |Language|
  |  |   |   |Morality|
  |  |   |   |Ethics|
 
-The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribal or even a future new society on planet Mars. 
+The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribe or even a future new society on other planets. 
 
 The are are some principles and behaviours as inputs in the Suburban requirements and constraints
 
@@ -44,9 +44,9 @@ The are are some principles and behaviours as inputs in the Suburban requirement
 - Focus wat matters - define levels of areas that are more important and prioritised
 
 #### Constraints:
-- Any sized society will have different ambitions of the focus areas
-- Some areas are will emerge to be more important than others. 
-- It is a great value to re-use a good structure such as Suburban
+- Any Society can get value-add by re-using Suburban structure and contribute to evolve the Suburban structure
+- Any sized society will have different ambitions, legal, apply laws of the focus areas
+- Some areas are will emerge to be more important than others with different priority. 
 - Ex. establish a Common ground for making sure the society is safe, secure and justiced.
 - Execution and enforcement needs to be monitored, needs to be measured by its perfomance and outcome 
 different accountability.
@@ -54,18 +54,17 @@ different accountability.
 https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
 
-
-### What
+### What needs to be done
 - The Definition of the Focus Areas and the Foucs Area Types
 - The Structure
 - Shared Knowledge
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F00.%20Focus%20Areas%20-%20Simplified.png)
 
-### How 
-- Simplify by defining the most important Focus Areas that matters
-- Structure the focus areas
-- Stimulate many new solution areas
-- Collective Intelligence of the many
+### How it is done
+- By simplifing and defining the most important Focus Areas that matters
+- By structuring the Focus Areas nd its Focus Area Types
+- By stimulate new solution areas and connect and collaborate other eco-systems
+- By collective Intelligence of the many
 
 
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F001.%20Focus%20Areas%20-%20Detailed.png)
