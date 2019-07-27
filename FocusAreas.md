@@ -51,7 +51,7 @@ A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
 ------------  |  ------------  |  ------------  |  ------------  |
 Safety | Education | Health | Values| Education | Health |
 Security | Services | Economy | Age|
-Justice | Function | Employment |Religion|
+Justice | Functions | Employment |Religion|
 Liberty of Speech | Infrastructure | Knowledge |Culture|
 Identity |   |   |History|
 Environment |   |   |Language|
