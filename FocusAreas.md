@@ -1,14 +1,14 @@
 
-### Level 1
+### Focus Area Types
 
-| |Focus Areas  |
+| |Focus Area Types  |
 ------------  |------------  |
 A|Living conditions|
 B|Abilities|
 C|Welfare|
 D|Diversities|
 
-### Level 2
+### Focus Areas
 A - Living conditions |
 ------------  |
 Safety|
