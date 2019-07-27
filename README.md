@@ -33,6 +33,13 @@ Environment|   |   |Language|
  |  |   |   |Morality|
  |  |   |   |Ethics|
 
+### Why
+- Make any area great again
+- More safe, secure and just
+- More balancing opposite forces and include all citizens
+- Build a co-creating future oriented mindset that involves people and individuals
+- More human, collectively intelligent participation
+
 The ambition is to release "Suburban" structure as a Distributed Open Source framework for mankind, no matter if it is Global , National, State or Tribe or even a future new society on other planets. 
 
 The are are some principles and behaviours as inputs in the Suburban requirements and constraints
@@ -68,13 +75,6 @@ https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
 
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F001.%20Focus%20Areas%20-%20Detailed.png)
-
-### Why
-- Make any area great again
-- More safe, secure and just
-- More balancing opposite forces and include all citizens
-- Build a co-creating future oriented mindset that involves people and individuals
-- More human, collectively intelligent participation
 
 ### Call to action
 - Contribute to "Suburban"
