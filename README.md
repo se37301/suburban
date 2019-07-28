@@ -60,12 +60,14 @@ different accountability.
 
 https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
+### Where is Surburban needed
+- To address many of the World problems today
+https://github.com/se37301/suburban/blob/master/Docs/PDFs/00.World_challenges_details.pdf
 
 ### What needs to be done
 - The Definition of the Focus Areas and the Foucs Area Types
 - The Structure
 - Shared Knowledge
-![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F00.%20Focus%20Areas%20-%20Simplified.png)
 
 ### How it is done
 - By simplifing and defining the most important Focus Areas that matters
@@ -73,8 +75,8 @@ https://github.com/se37301/suburban/blob/master/FocusAreas.md
 - By stimulate new solution areas and connect and collaborate other eco-systems
 - By collective Intelligence of the many
 
-
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F001.%20Focus%20Areas%20-%20Detailed.png)
+
 
 ### Call to action
 - Contribute to "Suburban"
